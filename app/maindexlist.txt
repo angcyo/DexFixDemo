@@ -1,0 +1,2 @@
+com/angcyo/dexfixdemo/MainActivity.class
+com/angcyo/dexfixdemo/App.class
